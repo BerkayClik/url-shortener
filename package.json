@@ -16,7 +16,7 @@
   "dependencies": {
     "ejs": "^3.0.1",
     "express": "^4.22.1",
-    "mongoose": "^5.9.5",
+    "mongoose": "^6.13.6",
     "shortid": "^2.2.15"
   },
   "devDependencies": {
